@@ -1,3 +1,5 @@
+#Este programa busca la sub-palabra mas larga con orden alfabético
+
 s = 'azcbobobegghakl'
 
 order = ""
